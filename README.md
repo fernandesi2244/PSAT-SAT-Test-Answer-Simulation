@@ -14,4 +14,5 @@ Should you use the Letter-of-the-Day or pick random letters on questions you are
  * conditions due to its pseudorandom nature.
  
 # Results
-Most of the time, picking a Letter-of-the-Day for all unsure questions will earn you more points than picking random letters for those same questions.
+The results are pretty matched up. It does not seem as if one is better than the other!
+However, if you increase the question bank from 131 questions to 1000 questions, it becomes clear that most of the time, picking a Letter-of-the-Day for all unsure questions will earn you more points than picking random letters for those same questions.
