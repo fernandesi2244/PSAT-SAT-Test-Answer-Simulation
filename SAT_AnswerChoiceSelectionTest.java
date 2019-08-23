@@ -39,7 +39,7 @@ public class SAT_AnswerChoiceSelectionTest {
 		int option1Score, option2Score;
 		
 		//Complete several trials for reliability
-		for(int x = 0;x<100000;x++) {
+		for(int x = 0;x<1000000;x++) {
 			option1Score = 0;
 			option2Score = 0;
 		
